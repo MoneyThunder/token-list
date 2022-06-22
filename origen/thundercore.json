@@ -318,6 +318,17 @@
       "website": "https://master.diceplanet.xyz/",
       "socials": [{ "name": "email", "url": "diceplanet@gmail.com" }],
       "tags": []
+    },
+    {
+      "dirección" : " 0xbD708f451215f9De0b4dCa9eAB2f19820aEbbeC2 " ,
+      "símbolo" : " MT " ,
+      "nombre" : " MoneyThunder " ,
+      "decimales" : 18 ,
+      "description" : " MT Token is focused on the payment of tasks in different social networks. It is also used to obtain TT in a simpler and more passive way." ,
+      "ttswap_exchange" : " 0x6a009e3a5C1dE8Bec4712D7b470437D7E24842Ab " ,
+      "sitio web" : " https://cryptoMT.wordpress.com/ " ,
+      "redes sociales" : [{ "nombre" : " correo electrónico " , "url" : " moneythundermt@gmail.com "  }],
+      "etiquetas" : []
     }
   ]
 }
